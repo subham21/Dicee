@@ -40,7 +40,7 @@ class ViewController: UIViewController {
     //Todo - update data
     
     func updateDiceImage() {
-        
+        //update
         randomDiceIndex1 = Int.random(in: 0 ... 5)
         randomDiceIndex2 = Int.random(in: 0 ... 5)
         
